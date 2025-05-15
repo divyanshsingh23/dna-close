@@ -20,14 +20,12 @@ This tool allows users to estimate their genetic ancestry by comparing their G25
 ## Installation
 
 1. Clone this repository:
-   ```
-   git clone https://github.com/yourusername/g25-ancestry-estimator.git
-   cd g25-ancestry-estimator
-   ```
+
 
 2. Build the executable:
    ```
-   go build -o g25estimator .
+   go build -o dna-close
+    .
    ```
 
 ## File Structure
